@@ -1,7 +1,7 @@
 [book]
-authors = ["Michael Currin"]
+authors = ["Gavesako Bhikkhu"]
 language = "en"
 multilingual = false
 src = "src"
-title = "mdBook Quickstart"
-description = "Demo site for mdBook Quickstart repo"
+title = "Gavesako Projects"
+description = "Gavesako Projects"
